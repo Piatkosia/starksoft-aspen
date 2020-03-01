@@ -7,7 +7,6 @@ namespace Demo
 {
     class Program
     {
-        //project just 
         static void Main(string[] args)
         {
             string keyId = "416AB815";
